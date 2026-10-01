@@ -1,7 +1,7 @@
 # Cristopher Aguiar
 ## **Desenvolvedor Júnior** ##
 
-Me chamo Cristopher Miguel Aguiar, tenho 18 anos e sou natural de Fortaleza e concluí o ensino médio no primeiro Colégio da Polícia do Ceará. Atualmente, estou cursando Ciências da Computação na Estácio, sou apaixonado e admiro a área em que atuo.
+<P>Me chamo Cristopher Miguel Aguiar, tenho 18 anos e sou natural de Fortaleza e concluí o ensino médio no primeiro Colégio da Polícia do Ceará. Atualmente, estou cursando Ciências da Computação na Estácio, sou apaixonado e admiro a área em que atuo.</P>
 ---
 
 ### 🤖 Linguagens e Tecnologias
