@@ -18,7 +18,6 @@ Me chamo Cristopher Miguel Aguiar, tenho 18 anos e sou natural de Fortaleza e co
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
 
 ---
 
@@ -62,7 +61,7 @@ Me chamo Cristopher Miguel Aguiar, tenho 18 anos e sou natural de Fortaleza e co
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 <br/>
 <br/>
